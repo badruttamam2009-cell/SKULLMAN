@@ -1,0 +1,33 @@
+[19-Nov-2024 15:32:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neevwork/public_html/skullman/koneksi.php on line 7
+[20-Nov-2024 04:49:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neevwork/public_html/skullman/koneksi.php on line 7
+[21-Nov-2024 14:47:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 14:47:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 15:12:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 15:12:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 15:14:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 15:14:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 15:14:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 15:14:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 15:14:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 15:14:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 16:57:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 16:57:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 16:57:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 16:57:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[21-Nov-2024 16:57:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[21-Nov-2024 16:57:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[22-Nov-2024 01:13:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[22-Nov-2024 01:13:16 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[22-Nov-2024 01:24:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[22-Nov-2024 01:24:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[22-Nov-2024 02:12:00 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 35
+[22-Nov-2024 02:12:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/neevwork/public_html/skullman/list_siswa.php on line 190
+[23-Nov-2024 14:04:55 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 121
+[23-Nov-2024 14:04:55 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 123
+[23-Nov-2024 14:04:55 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 124
+[23-Nov-2024 14:15:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 121
+[23-Nov-2024 14:15:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 123
+[23-Nov-2024 14:15:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 124
+[23-Nov-2024 15:36:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 63
+[23-Nov-2024 15:36:42 Asia/Jakarta] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/neevwork/public_html/skullman/tambah_kelastahun.php on line 65
+[28-Sep-2026 08:56:47 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'neevwork_userdb'@'localhost' (using password: YES) in /home/neevwork/public_html/skullman/koneksi.php on line 8
